@@ -50,6 +50,8 @@ This is where we start discussing the possible problems. We will use Visual Stud
 
   Since the VC 2010 runtime is no long compatible with Windows 10 and SDK, you should not install the old redistribution files. We will try to install new version later.
 
+  The installer may finish with errors. Check the log. If you have the error "Missing required property 'ProductFamily': Setup cannot continue.", you have to uninstall existing Visual C++ 2010 Redistributable. ([ref](https://stackoverflow.com/a/23032807/746461)) The steps in this article are verified to work in a clean virtual machine.
+
 - Install Windows VC 2010 SP1 Update for SDK 7.1 [Microsoft Visual C++ 2010 Service Pack 1 Compiler Update for the Windows SDK 7.1](https://www.microsoft.com/en-US/download/details.aspx?id=4422) Download and Install **VC-Compiler-KB2519277.exe**.
 
 - Install VC 2010 SP1 Redistributable Packages.
