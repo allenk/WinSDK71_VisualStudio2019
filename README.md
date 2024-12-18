@@ -32,7 +32,7 @@ This is where we start discussing the possible problems. We will use Visual Stud
 
 ## Install Windows SDK 7.1
 
-- Download the Windows SDK 7.1. [Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO)](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8442)
+- Download the Windows SDK 7.1. [Microsoft Windows SDK for Windows 7 and .NET Framework 4 (ISO)](https://www.microsoft.com/en-us/download/details.aspx?id=8442)
 
 - Mount the **ISO** file according your system.
 
